@@ -2,9 +2,9 @@
 <addons>
 <addon id="repository.zor" name="[COLOR gold][B]Repo.Zor[/B][/COLOR]" version="0.1" provider-name="[COLOR lime][B]IKE[/B][/COLOR]">
 	<extension point="xbmc.addon.repository" name="repository.zor">
-		<info compressed="false">https://raw.githubusercontent.com/massagrossa/flv/master/addons.xml</info>
-		<checksum>https://raw.githubusercontent.com/massagrossa/flv/master/addons.xml.md5</checksum>
-		<datadir zip="true">https://raw.githubusercontent.com/massagrossa/flv/master/repo/</datadir>
+		<info compressed="false">https://raw.githubusercontent.com/djazorean/kodiazor/master/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/djazorean/kodiazor/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/djazorean/kodiazor/master/repo/</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary>[COLOR blue][B]Zor Repo[/B][/COLOR]</summary>
