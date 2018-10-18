@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../plugin.video.cartooncarpediem/.idea/plugin.video.carpediem.iml" filepath="$PROJECT_DIR$/../plugin.video.cartooncarpediem/.idea/plugin.video.carpediem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../script.carpediem.artwork/.idea/script.carpediem.artwork.iml" filepath="$PROJECT_DIR$/../script.carpediem.artwork/.idea/script.carpediem.artwork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../script.carpediem.metadata/.idea/script.carpediem.metadata.iml" filepath="$PROJECT_DIR$/../script.carpediem.metadata/.idea/script.carpediem.metadata.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/script.module.carpediem.iml" filepath="$PROJECT_DIR$/.idea/script.module.carpediem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../script.module.resolveurl/.idea/script.module.resolveurl.iml" filepath="$PROJECT_DIR$/../script.module.resolveurl/.idea/script.module.resolveurl.iml" />
+    </modules>
+  </component>
+</project>
